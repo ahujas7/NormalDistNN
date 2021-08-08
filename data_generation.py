@@ -15,8 +15,6 @@ def normal_dist(data_vector, x):
 
 
 
-
-
 arr = np.array([4, -9, 1, -2, -5, 12])
 
 
